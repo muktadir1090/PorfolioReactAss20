@@ -58,6 +58,21 @@ As a web developer, I want to showcase my skills and projects through a professi
 - **Responsive Design**: The portfolio is mobile-friendly and adjusts to different screen sizes.
 - **Form Validation**: Ensures that required fields are filled and email addresses are valid.
 
+
+## Screenshot 
+
+![alt text](<Screenshot 2024-10-05 at 11.22.30 AM.png>)
+
+![alt text](<Screenshot 2024-10-05 at 11.22.47 AM.png>)
+
+![alt text](<Screenshot 2024-10-05 at 11.22.59 AM.png>)
+
+![alt text](<Screenshot 2024-10-05 at 11.23.20 AM.png>)
+
+
+## Installation
+
+
 ## Technologies
 
 - HTML5
@@ -73,7 +88,7 @@ To run the portfolio locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-portfolio-repo.git
+   git clone https://github.com/muktadir1090/PorfolioReactAss20.git
    
    Usage
 
