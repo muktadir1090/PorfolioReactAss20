@@ -5,7 +5,7 @@ import Navigation from './Navigation';
 function Header() {
   return (
     <header>
-      <h1>Tuba muktadir</h1>
+      <h1>Tuba Muktadir</h1>
       <Navigation />
     </header>
   );
