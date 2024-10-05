@@ -61,13 +61,13 @@ As a web developer, I want to showcase my skills and projects through a professi
 
 ## Screenshot 
 
-![alt text](<Screenshot 2024-10-05 at 11.22.30 AM.png>)
+<Screenshot 2024-10-05 at 11.22.30 AM.png>
 
-![alt text](<Screenshot 2024-10-05 at 11.22.47 AM.png>)
+<Screenshot 2024-10-05 at 11.22.47 AM.png>
 
-![alt text](<Screenshot 2024-10-05 at 11.22.59 AM.png>)
+<Screenshot 2024-10-05 at 11.22.59 AM.png>
 
-![alt text](<Screenshot 2024-10-05 at 11.23.20 AM.png>)
+<Screenshot 2024-10-05 at 11.23.20 AM.png>
 
 
 ## Installation
