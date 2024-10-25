@@ -6,7 +6,7 @@ function Resume() {
     <section id="resume">
       <a href={resume} download>Download Resume</a>
       <ul>
-        <li>Web <Development></Development></li>
+        <li>Web Development</li>
         <li>Software Development </li>
         {/* Add more proficiencies */}
       </ul>
